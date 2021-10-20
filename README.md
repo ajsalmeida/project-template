@@ -2,8 +2,9 @@
 
 Esse dataset é uma junção dos registros de vendas de bebidas alcóolicas no estado do Iowa, Estados Unidos da América. Nesse estado, todas as vendas devem ser registradas por determinação legal. Os dados contém informações relevantes as quais podem ser exploradas. No entanto, é um dataset muito grande e difícil de ser manipulado na forma em que é disponibilizado. Assim, é necessário fazer um tratamento e escolha dos dados a serem utilizados, para facilitar análise. Há uma grande quantidade de dados geográficos e nomes de cidades e condados que precisam ser examinados. Outra dificuldade é entender a geografia local, pois trata-se de um outro país com organizações geográficas diferentes do nosso. Acreditamos que todos esses dados poderiam ser apresentados de uma melhor forma, facilitando o entendimento. 
  [Acesso ao dataset](https://www.kaggle.com/residentmario/iowa-liquor-sales/version/2)
+ ## 
  ![png](/src/img/g1239.png)
- 
+ ## 
 
 ## Objetivos e resultados chave
 
