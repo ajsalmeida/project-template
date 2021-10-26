@@ -36,3 +36,12 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Big data files
+*/data/*.csv
+
+# Dask
+dask-worker-space
+
+# Poetry
+poetry.lock
